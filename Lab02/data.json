@@ -1,0 +1,29 @@
+{
+    "chart_title":"Average Minutes Spent Exercising per Activity" ",
+    "data_points": [
+        {
+            "label": "Running",
+            "value": 40
+        },
+        {
+            "label": "Yoga",
+            "value": 30
+        },
+        {
+            "label": "Swimming",
+            "value": 25
+        },
+	{
+            "label": "Football",
+            "value": 15
+        },
+        {
+            "label": "Hiking",
+            "value": 30
+        },
+        {
+            "label": "Surfing",
+            "value": 28
+        }
+    ]
+}
